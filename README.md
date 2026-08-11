@@ -80,8 +80,6 @@ The system includes persistent conversation memory, voice interaction, file hand
 **Vice President, Cybersecurity Club**
 Help lead a 50+ member technical community and coordinate workshops covering secure coding, phishing awareness, and ethical hacking.
 
-**Workshop Coordinator, IIT Hyderabad Web Development Program**
-Supported 20+ participants with web-development concepts, implementation, and debugging.
 
 ## Current Focus
 
