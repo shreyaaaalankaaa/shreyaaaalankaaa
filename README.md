@@ -12,7 +12,7 @@ A 12-node LangGraph agent that turns pharmaceutical complaint emails and PDFs in
 ### [PhishGuard](https://github.com/shreyaaaalankaaa/phishguard)
 **Python · Flask · scikit-learn · Docker · GitHub Actions**
 
-A phishing-risk API that scores URLs on 33 lexical and structural features and returns a probability, a 0–100 risk score, and the top indicators. It never visits submitted URLs or runs DNS, WHOIS, or reputation lookups, so predictions stay reproducible and isolated from malicious hosts. 0.95 ROC-AUC on a 12,500-URL holdout.
+A phishing-risk API that scores URLs on 35 lexical and structural features and returns a probability, a 0–100 risk score, and the top indicators. It never visits submitted URLs or runs DNS, WHOIS, or reputation lookups, so predictions stay reproducible and isolated from malicious hosts. 0.95 ROC-AUC on a 18,750-URL holdout.
 
 ### [LocalOS](https://github.com/shreyaaaalankaaa/localos-ai-assistant)
 **Electron · React · TypeScript · FastAPI · Ollama**
